@@ -8,6 +8,9 @@ Disclaimer: GDG Cochin is an independent group; our activities and the opinions 
 ## Slack Channel
 Invite Link : http://gdgcochin.herokuapp.com
 
+## Google Group
+Link : https://groups.google.com/forum/#!forum/gdgcochin
+
 ## Contact Us :
 Email : gdgcochin@gmail.com
 
