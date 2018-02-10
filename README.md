@@ -4,3 +4,10 @@ GDG Cochin is the second GDG in Kerala, India which is a group of enthusiast dev
 We plan regular events, meetups and workshops to share experience and to spread knowledge. We are keen to conduct events for freshers and other developers. Our meetings will always be free and open to the general public.
 
 Disclaimer: GDG Cochin is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation.
+
+## Slack Channel
+Invite Link : http://gdgcochin.herokuapp.com
+
+## Contact Us :
+Email : gdgcochin@gmail.com
+
